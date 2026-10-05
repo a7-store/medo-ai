@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">مساعد ميدو الذكي</string>
+    <string name="service_name">خدمة رصد وتلخيص الإشعارات</string>
+    <string name="tab_summary">الملخص الذكي</string>
+    <string name="tab_tasks">المهام والطلبات</string>
+    <string name="tab_history">سجل الرسائل</string>
+    <string name="tab_settings">الإعدادات</string>
+    
+    <string name="permission_title">صلاحية قراءة الإشعارات</string>
+    <string name="permission_desc">يحتاج التطبيق لصلاحية الوصول للإشعارات ليتمكن من التقاط رسائل الواتساب والرسائل القصيرة وتلخيصها لك بأمان.</string>
+    <string name="grant_permission">منح الصلاحية الآن</string>
+    <string name="permission_granted">الصلاحية مفعلة بنجاح ✅</string>
+    
+    <string name="btn_summarize">✨ لخص رسائلي الآن بالذكاء الاصطناعي</string>
+    <string name="btn_extract_tasks">🎯 استخراج المهام والطلبات المعلقة</string>
+    
+    <string name="filter_today">اليوم</string>
+    <string name="filter_6h">آخر 6 ساعات</string>
+    <string name="filter_24h">آخر 24 ساعة</string>
+    <string name="filter_all">الكل</string>
+
+    <string name="summary_card_title">ملخص اليوم والرسائل الواردة</string>
+    <string name="no_summary_yet">اضغط على زر التلخيص لتحليل الرسائل الواردة وصياغة تقرير ذكي لك.</string>
+    <string name="tasks_card_title">قائمة الطلبات والمهام المعلقة</string>
+    <string name="no_tasks_yet">لا توجد مهام معلقة مكتشفة حتى الآن. عندما يطلب منك أحد شيئاً في رسالة ستظهر هنا فوراً.</string>
+    
+    <string name="api_key_hint">أدخل مفتاح Gemini API Key هنا</string>
+    <string name="btn_save_key">حفظ المفتاح</string>
+    <string name="api_key_saved">تم حفظ مفتاح API بنجاح</string>
+    <string name="api_key_missing_msg">يرجى إدخال مفتاح Gemini API في الإعدادات لبدء استخدام الذكاء الاصطناعي مجاناً.</string>
+
+    <string name="analyzing_progress">جاري قراءة الرسائل وتحليلها بالذكاء الاصطناعي...</string>
+    <string name="task_alert_channel_name">تنبيهات المهام والطلبات</string>
+    <string name="task_alert_channel_desc">إشعارات بالمهام والمواعيد والطلبات الموجهة إليك من الرسائل</string>
+</resources>
